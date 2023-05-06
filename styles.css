@@ -1,0 +1,35 @@
+body {
+    color:whitesmoke;
+    background:black;
+    font-family:Courier, monospace;
+    font-size: medium;
+    background-image: url("background.jpg");
+    background-size: cover;
+    
+    
+}
+h1 {
+    color: green;
+    font-size: 80px;
+}
+h2 {
+    color:green
+}
+.pepetype{
+    display:inline-block;
+}
+.text{
+    white-space:nowrap;
+    overflow:hidden
+}
+.sbox{
+    height: 0px;
+    width: 20000x;
+    padding: 1px;
+    margin: 100px;
+    border: 10px solid green;
+}
+a{
+color: #ffffff;
+font-size: 30px;
+}
